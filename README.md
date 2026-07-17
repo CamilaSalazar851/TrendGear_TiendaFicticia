@@ -1,0 +1,1 @@
+# TrendGear_TiendaFicticia
