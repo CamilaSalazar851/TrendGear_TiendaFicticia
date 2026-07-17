@@ -1,0 +1,201 @@
+Customer ID,Name,Email,Product Purchased,Purchase Date,Amount Spent ($),Age,City,Payment Method,Last Login Date,Membership Status
+1,Natalia Guzmán,natalia.guzman1@mailinator.com,Laptop Gamer,2024-01-13,1338.67,33,Bucaramanga,Credit Card,2024-03-05,Silver
+2,Alejandro Reyes,alejandro.reyes2@mailinator.com,Laptop Gamer,2024-10-29,768.13,19,Medellín,Credit Card,2024-11-05,Silver
+3,Laura Gómez,laura.gomez3@mailinator.com,Disco SSD 1TB,2024-04-11,1293.10,62,Cartagena,Debit Card,2024-06-06,Silver
+4,Camila Salazar,camila.salazar4@mailinator.com,Impresora Multifuncional,2024-01-04,1369.47,28,Pereira,Debit Card,2024-05-25,Bronze
+5,Camilo Vega,camilo.vega5@mailinator.com,Smartwatch,2024-02-22,180.55,24,Barranquilla,Debit Card,2024-07-06,Gold
+6,David Contreras,david.contreras6@mailinator.com,Cámara Web HD,2024-10-01,237.81,42,Medellín,PayPal,2024-10-19,Gold
+7,Felipe Álvarez,felipe.alvarez7@mailinator.com,Micrófono USB,2024-07-04,1045.57,63,Medellín,Credit Card,2024-08-31,Silver
+8,Ana Torres,ana.torres8@mailinator.com,Router WiFi 6,2024-04-29,1561.67,42,Cúcuta,Debit Card,2024-10-08,Gold
+9,Andrés Castro,andres.castro9@mailinator.com,Smartwatch,2024-06-30,388.97,35,Medellín,PayPal,2024-08-12,Silver
+10,Juan Rodríguez,juan.rodriguez10@mailinator.com,Mouse Inalámbrico,2024-08-24,692.33,58,Cartagena,Credit Card,2024-10-04,Gold
+11,Camilo Vega,camilo.vega11@mailinator.com,Auriculares Bluetooth,2024-04-27,1481.92,38,Pereira,Debit Card,2024-05-13,Bronze
+12,Paula Restrepo,paula.restrepo12@mailinator.com,Micrófono USB,2024-06-10,394.54,49,Pereira,PayPal,2024-10-05,Bronze
+13,Sofía Ramírez,sofia.ramirez13@mailinator.com,"Monitor 27""",2024-10-14,977.07,65,Santa Marta,Debit Card,2024-11-08,Bronze
+14,Sofía Ramírez,sofia.ramirez14@mailinator.com,Disco SSD 1TB,2024-09-09,177.27,21,Medellín,Credit Card,2024-09-29,Silver
+15,Sebastián Jiménez,sebastian.jimenez15@mailinator.com,Parlante Portátil,2024-02-02,701.81,56,Manizales,PayPal,2024-06-09,Gold
+16,Laura Gómez,laura.gomez16@mailinator.com,Cargador Inalámbrico,2024-02-28,1231.85,52,Cúcuta,PayPal,2024-08-20,Bronze
+17,Sebastián Jiménez,sebastian.jimenez17@mailinator.com,Mouse Inalámbrico,2024-08-20,20.79,64,Cúcuta,PayPal,2024-09-11,Silver
+18,Diego Pérez,diego.perez18@mailinator.com,Router WiFi 6,2024-06-01,1517.38,50,Santa Marta,Credit Card,2024-07-10,Bronze
+19,Andrés Castro,andres.castro19@mailinator.com,Disco SSD 1TB,2024-09-28,1654.51,56,Barranquilla,Debit Card,2024-09-29,Bronze
+20,Santiago Ortiz,santiago.ortiz20@mailinator.com,Micrófono USB,2024-06-06,442.42,33,Santa Marta,Credit Card,2024-06-27,Silver
+21,Ana Torres,ana.torres21@mailinator.com,Impresora Multifuncional,2024-09-29,1382.01,26,Manizales,PayPal,2024-10-09,Bronze
+22,Felipe Álvarez,felipe.alvarez22@mailinator.com,Tablet 10 pulgadas,2024-04-18,1673.11,64,Bucaramanga,PayPal,2024-07-06,Bronze
+23,Tomás Cárdenas,tomas.cardenas23@mailinator.com,Cargador Inalámbrico,2024-07-10,797.01,51,Manizales,Credit Card,2024-09-11,Bronze
+24,Isabella Vargas,isabella.vargas24@mailinator.com,Auriculares Bluetooth,2024-10-28,1003.75,55,Bucaramanga,Credit Card,2024-10-30,Silver
+25,Carlos Ruiz,carlos.ruiz25@mailinator.com,"Monitor 27""",2024-02-04,1631.17,39,Medellín,PayPal,2024-06-04,Bronze
+26,Nicolás Mendoza,nicolas.mendoza26@mailinator.com,"Monitor 27""",2024-10-03,251.18,54,Santa Marta,Debit Card,2024-10-18,Silver
+27,Sebastián Jiménez,sebastian.jimenez27@mailinator.com,"Monitor 27""",2024-02-18,188.02,45,Barranquilla,Debit Card,2024-09-15,Silver
+28,David Contreras,david.contreras28@mailinator.com,Auriculares Bluetooth,2024-02-20,123.19,64,Barranquilla,Credit Card,2024-06-26,Bronze
+29,Alejandro Reyes,alejandro.reyes29@mailinator.com,Cámara Web HD,2024-03-12,768.06,35,Manizales,Credit Card,2024-10-21,Gold
+30,Mariana Suárez,mariana.suarez30@mailinator.com,Impresora Multifuncional,2024-10-08,189.77,59,Cartagena,Credit Card,2024-10-13,Gold
+31,Juan Rodríguez,juan.rodriguez31@mailinator.com,Mouse Inalámbrico,2024-07-27,881.87,31,Pereira,Credit Card,2024-08-17,Bronze
+32,Daniela Rojas,daniela.rojas32@mailinator.com,Teclado Mecánico,2024-08-20,524.17,62,Cartagena,PayPal,2024-10-21,Bronze
+33,Mateo Herrera,mateo.herrera33@mailinator.com,"Monitor 27""",2024-01-30,1048.84,52,Bogotá,PayPal,2024-07-08,Bronze
+34,Paula Restrepo,paula.restrepo34@mailinator.com,Cámara Web HD,2024-09-14,1656.11,51,Cali,Credit Card,2024-11-14,Silver
+35,Andrés Castro,andres.castro35@mailinator.com,Laptop Gamer,2024-10-31,136.31,33,Pereira,Credit Card,2024-11-07,Silver
+36,Carlos Ruiz,carlos.ruiz36@mailinator.com,Parlante Portátil,2024-02-11,763.32,55,Santa Marta,PayPal,2024-07-21,Gold
+37,Valentina Morales,valentina.morales37@mailinator.com,Cargador Inalámbrico,2024-06-09,441.05,43,Cali,PayPal,2024-08-24,Silver
+38,Camilo Vega,camilo.vega38@mailinator.com,Micrófono USB,2024-02-07,31.63,57,Santa Marta,Credit Card,2024-03-15,Silver
+39,Gabriela Cortés,gabriela.cortes39@mailinator.com,Teclado Mecánico,2024-03-08,1680.87,22,Bucaramanga,Debit Card,2024-05-19,Bronze
+40,Alejandro Reyes,alejandro.reyes40@mailinator.com,Silla Gamer,2024-06-03,1106.84,59,Cartagena,Credit Card,2024-10-22,Bronze
+41,Tomás Cárdenas,tomas.cardenas41@mailinator.com,Laptop Gamer,2024-03-09,487.07,24,Cartagena,Credit Card,2024-05-17,Bronze
+42,Valentina Morales,valentina.morales42@mailinator.com,Silla Gamer,2024-06-24,378.42,58,Cúcuta,PayPal,2024-10-27,Bronze
+43,Carlos Ruiz,carlos.ruiz43@mailinator.com,Laptop Gamer,2024-08-04,1495.39,20,Bogotá,Debit Card,2024-11-10,Bronze
+44,Camila Salazar,camila.salazar44@mailinator.com,Mouse Inalámbrico,2024-08-14,999.75,45,Cartagena,Credit Card,2024-08-28,Bronze
+45,María Fernanda León,maria.fernanda.leon45@mailinator.com,Micrófono USB,2024-03-17,988.88,41,Santa Marta,PayPal,2024-04-23,Silver
+46,Carlos Ruiz,carlos.ruiz46@mailinator.com,Teclado Mecánico,2024-07-05,1619.68,20,Barranquilla,Credit Card,2024-09-06,Silver
+47,Santiago Ortiz,santiago.ortiz47@mailinator.com,Impresora Multifuncional,2024-10-13,1593.18,44,Santa Marta,PayPal,2024-10-22,Gold
+48,Juan Rodríguez,juan.rodriguez48@mailinator.com,Router WiFi 6,2024-03-24,1757.53,29,Pereira,Credit Card,2024-05-08,Silver
+49,Isabella Vargas,isabella.vargas49@mailinator.com,Impresora Multifuncional,2024-07-29,1446.99,65,Bucaramanga,Debit Card,2024-08-18,Silver
+50,Diego Pérez,diego.perez50@mailinator.com,Tablet 10 pulgadas,2024-01-20,1547.59,32,Bucaramanga,Debit Card,2024-07-17,Bronze
+51,Juan Rodríguez,juan.rodriguez51@mailinator.com,"Monitor 27""",2024-01-13,1193.16,43,Barranquilla,Debit Card,2024-02-17,Gold
+52,Camila Salazar,camila.salazar52@mailinator.com,Smartwatch,2024-09-17,728.43,52,Barranquilla,Credit Card,2024-09-24,Gold
+53,Camila Salazar,camila.salazar53@mailinator.com,Mouse Inalámbrico,2024-10-24,1733.12,34,Bogotá,Credit Card,2024-11-12,Silver
+54,David Contreras,david.contreras54@mailinator.com,Impresora Multifuncional,2024-06-09,793.96,50,Medellín,Debit Card,2024-11-03,Bronze
+55,Carlos Ruiz,carlos.ruiz55@mailinator.com,Silla Gamer,2024-08-11,18.02,52,Bucaramanga,Debit Card,2024-10-05,Bronze
+56,Tomás Cárdenas,tomas.cardenas56@mailinator.com,Micrófono USB,2024-06-18,1127.33,60,Medellín,PayPal,2024-09-02,Silver
+57,Tomás Cárdenas,tomas.cardenas57@mailinator.com,Tablet 10 pulgadas,2024-06-16,733.28,36,Cartagena,Credit Card,2024-08-04,Silver
+58,Daniela Rojas,daniela.rojas58@mailinator.com,Cargador Inalámbrico,2024-03-30,1113.69,37,Pereira,PayPal,2024-10-29,Bronze
+59,Mateo Herrera,mateo.herrera59@mailinator.com,"Monitor 27""",2024-08-08,1417.58,56,Barranquilla,Debit Card,2024-10-03,Silver
+60,Valentina Morales,valentina.morales60@mailinator.com,Disco SSD 1TB,2024-08-30,1431.82,65,Cali,PayPal,2024-09-09,Bronze
+61,Tomás Cárdenas,tomas.cardenas61@mailinator.com,Cargador Inalámbrico,2024-11-13,613.31,33,Cúcuta,Credit Card,2024-11-13,Bronze
+62,Carlos Ruiz,carlos.ruiz62@mailinator.com,"Monitor 27""",2024-08-31,1106.12,22,Manizales,Debit Card,2024-11-12,Bronze
+63,María Fernanda León,maria.fernanda.leon63@mailinator.com,Tablet 10 pulgadas,2024-09-10,728.38,27,Bogotá,Credit Card,2024-11-03,Bronze
+64,María Fernanda León,maria.fernanda.leon64@mailinator.com,Disco SSD 1TB,2024-08-25,104.64,33,Medellín,Debit Card,2024-09-11,Gold
+65,Tomás Cárdenas,tomas.cardenas65@mailinator.com,Disco SSD 1TB,2024-10-13,1077.88,46,Santa Marta,PayPal,2024-11-14,Silver
+66,Alejandro Reyes,alejandro.reyes66@mailinator.com,Cámara Web HD,2024-03-22,1342.42,48,Manizales,Debit Card,2024-09-30,Bronze
+67,Natalia Guzmán,natalia.guzman67@mailinator.com,Teclado Mecánico,2024-09-23,880.01,33,Cúcuta,Debit Card,2024-09-27,Silver
+68,Juan Rodríguez,juan.rodriguez68@mailinator.com,Teclado Mecánico,2024-06-20,585.68,52,Medellín,Credit Card,2024-07-28,Bronze
+69,María Fernanda León,maria.fernanda.leon69@mailinator.com,Mouse Inalámbrico,2024-04-19,129.65,44,Barranquilla,PayPal,2024-08-16,Silver
+70,Valentina Morales,valentina.morales70@mailinator.com,Router WiFi 6,2024-08-03,710.22,55,Bogotá,PayPal,2024-09-20,Silver
+71,Santiago Ortiz,santiago.ortiz71@mailinator.com,Teclado Mecánico,2024-07-18,1538.40,44,Cartagena,PayPal,2024-10-20,Silver
+72,Felipe Álvarez,felipe.alvarez72@mailinator.com,Micrófono USB,2024-04-22,886.49,35,Pereira,Debit Card,2024-04-29,Bronze
+73,Tomás Cárdenas,tomas.cardenas73@mailinator.com,Cargador Inalámbrico,2024-07-26,1307.66,47,Cali,PayPal,2024-10-02,Bronze
+74,Daniela Rojas,daniela.rojas74@mailinator.com,Parlante Portátil,2024-10-15,1198.45,23,Pereira,Credit Card,2024-11-13,Bronze
+75,Camila Salazar,camila.salazar75@mailinator.com,Tablet 10 pulgadas,2024-06-16,392.81,38,Barranquilla,Debit Card,2024-08-26,Silver
+76,Sebastián Jiménez,sebastian.jimenez76@mailinator.com,Teclado Mecánico,2024-02-11,854.50,65,Cartagena,Credit Card,2024-08-08,Bronze
+77,Ana Torres,ana.torres77@mailinator.com,Impresora Multifuncional,2024-01-21,1361.31,33,Bucaramanga,Credit Card,2024-04-08,Bronze
+78,Nicolás Mendoza,nicolas.mendoza78@mailinator.com,Cargador Inalámbrico,2024-02-28,1021.69,31,Manizales,PayPal,2024-07-08,Silver
+79,Andrés Castro,andres.castro79@mailinator.com,Parlante Portátil,2024-11-06,1735.27,63,Medellín,Credit Card,2024-11-10,Bronze
+80,Laura Gómez,laura.gomez80@mailinator.com,Micrófono USB,2024-06-08,1042.80,42,Pereira,PayPal,2024-07-28,Bronze
+81,María Fernanda León,maria.fernanda.leon81@mailinator.com,Router WiFi 6,2024-05-04,196.89,37,Santa Marta,Credit Card,2024-09-25,Silver
+82,Santiago Ortiz,santiago.ortiz82@mailinator.com,Disco SSD 1TB,2024-08-07,1195.82,22,Cartagena,PayPal,2024-09-19,Bronze
+83,Sebastián Jiménez,sebastian.jimenez83@mailinator.com,Router WiFi 6,2024-09-07,203.39,41,Manizales,PayPal,2024-09-26,Silver
+84,David Contreras,david.contreras84@mailinator.com,Disco SSD 1TB,2024-05-18,1114.40,52,Manizales,Debit Card,2024-09-06,Gold
+85,Paula Restrepo,paula.restrepo85@mailinator.com,Teclado Mecánico,2024-06-14,1535.31,23,Cúcuta,Debit Card,2024-08-15,Silver
+86,Paula Restrepo,paula.restrepo86@mailinator.com,Parlante Portátil,2024-07-13,615.47,49,Barranquilla,Credit Card,2024-09-13,Bronze
+87,Camila Salazar,camila.salazar87@mailinator.com,Smartwatch,2024-05-23,1586.37,62,Cúcuta,PayPal,2024-05-25,Silver
+88,Valentina Morales,valentina.morales88@mailinator.com,Laptop Gamer,2024-05-03,1300.33,49,Cartagena,Credit Card,2024-10-26,Silver
+89,María Fernanda León,maria.fernanda.leon89@mailinator.com,Cámara Web HD,2024-08-17,1430.39,23,Cúcuta,Credit Card,2024-10-07,Silver
+90,Mateo Herrera,mateo.herrera90@mailinator.com,Cargador Inalámbrico,2024-10-24,673.70,53,Cartagena,Debit Card,2024-11-06,Gold
+91,Alejandro Reyes,alejandro.reyes91@mailinator.com,Smartwatch,2024-06-29,1269.60,35,Cúcuta,Debit Card,2024-08-27,Bronze
+92,Valentina Morales,valentina.morales92@mailinator.com,Smartwatch,2024-03-02,1341.04,62,Cali,Credit Card,2024-06-20,Silver
+93,Camila Salazar,camila.salazar93@mailinator.com,Silla Gamer,2024-10-28,1758.24,51,Santa Marta,Debit Card,2024-10-31,Gold
+94,Mateo Herrera,mateo.herrera94@mailinator.com,"Monitor 27""",2024-07-03,335.30,18,Cartagena,Credit Card,2024-09-11,Bronze
+95,Carlos Ruiz,carlos.ruiz95@mailinator.com,Disco SSD 1TB,2024-05-29,1259.89,26,Manizales,Credit Card,2024-06-01,Silver
+96,Nicolás Mendoza,nicolas.mendoza96@mailinator.com,Cámara Web HD,2024-08-13,623.16,21,Cúcuta,Debit Card,2024-08-27,Gold
+97,Daniela Rojas,daniela.rojas97@mailinator.com,Cámara Web HD,2024-02-07,1044.98,61,Bogotá,Credit Card,2024-04-23,Gold
+98,Mateo Herrera,mateo.herrera98@mailinator.com,Laptop Gamer,2024-05-07,226.44,44,Santa Marta,PayPal,2024-10-12,Bronze
+99,Gabriela Cortés,gabriela.cortes99@mailinator.com,Tablet 10 pulgadas,2024-08-18,1636.68,37,Santa Marta,Debit Card,2024-09-26,Silver
+100,Carlos Ruiz,carlos.ruiz100@mailinator.com,Parlante Portátil,2024-02-20,1706.45,31,Bucaramanga,Debit Card,2024-04-01,Bronze
+101,Andrés Castro,andres.castro101@mailinator.com,Disco SSD 1TB,2024-02-08,294.41,44,Manizales,PayPal,2024-10-05,Bronze
+102,Juan Rodríguez,juan.rodriguez102@mailinator.com,Teclado Mecánico,2024-05-24,1269.83,47,Medellín,PayPal,2024-07-22,Gold
+103,Natalia Guzmán,natalia.guzman103@mailinator.com,Parlante Portátil,2024-04-11,773.87,52,Bucaramanga,PayPal,2024-05-19,Gold
+104,Sofía Ramírez,sofia.ramirez104@mailinator.com,Laptop Gamer,2024-01-31,311.17,37,Santa Marta,PayPal,2024-06-26,Silver
+105,Mariana Suárez,mariana.suarez105@mailinator.com,Silla Gamer,2024-06-04,1264.02,35,Cartagena,PayPal,2024-10-08,Silver
+106,Felipe Álvarez,felipe.alvarez106@mailinator.com,Auriculares Bluetooth,2024-08-09,1326.14,56,Cúcuta,Credit Card,2024-08-20,Bronze
+107,Tomás Cárdenas,tomas.cardenas107@mailinator.com,Router WiFi 6,2024-10-21,1063.01,19,Cúcuta,PayPal,2024-10-22,Silver
+108,Andrés Castro,andres.castro108@mailinator.com,Cámara Web HD,2024-09-22,1177.94,35,Cali,PayPal,2024-10-19,Silver
+109,Nicolás Mendoza,nicolas.mendoza109@mailinator.com,Laptop Gamer,2024-08-28,636.11,39,Barranquilla,PayPal,2024-09-10,Gold
+110,Isabella Vargas,isabella.vargas110@mailinator.com,Tablet 10 pulgadas,2024-09-10,529.47,43,Cartagena,Credit Card,2024-11-07,Bronze
+111,Camila Salazar,camila.salazar111@mailinator.com,Smartwatch,2024-02-29,1746.78,43,Cartagena,Credit Card,2024-10-22,Silver
+112,Valentina Morales,valentina.morales112@mailinator.com,Disco SSD 1TB,2024-07-04,1126.40,49,Manizales,Credit Card,2024-08-25,Bronze
+113,Sofía Ramírez,sofia.ramirez113@mailinator.com,Micrófono USB,2024-05-27,797.04,62,Manizales,Credit Card,2024-06-03,Gold
+114,Felipe Álvarez,felipe.alvarez114@mailinator.com,Impresora Multifuncional,2024-05-02,1281.96,37,Cartagena,Credit Card,2024-09-20,Silver
+115,Juan Rodríguez,juan.rodriguez115@mailinator.com,Router WiFi 6,2024-02-28,838.68,25,Cali,Debit Card,2024-07-26,Silver
+116,Camila Salazar,camila.salazar116@mailinator.com,Tablet 10 pulgadas,2024-09-04,1764.74,33,Manizales,PayPal,2024-09-22,Bronze
+117,Felipe Álvarez,felipe.alvarez117@mailinator.com,Disco SSD 1TB,2024-03-10,1557.29,35,Pereira,Debit Card,2024-11-04,Silver
+118,Camila Salazar,camila.salazar118@mailinator.com,Router WiFi 6,2024-01-02,519.87,37,Santa Marta,PayPal,2024-09-08,Gold
+119,Mariana Suárez,mariana.suarez119@mailinator.com,Disco SSD 1TB,2024-09-04,631.05,53,Cartagena,Debit Card,2024-11-01,Gold
+120,Valentina Morales,valentina.morales120@mailinator.com,Silla Gamer,2024-05-02,1035.66,32,Pereira,Credit Card,2024-07-22,Silver
+121,María Fernanda León,maria.fernanda.leon121@mailinator.com,Micrófono USB,2024-07-14,704.15,60,Cali,Debit Card,2024-11-14,Bronze
+122,Gabriela Cortés,gabriela.cortes122@mailinator.com,Parlante Portátil,2024-06-18,1567.42,46,Medellín,PayPal,2024-10-12,Bronze
+123,Sofía Ramírez,sofia.ramirez123@mailinator.com,Tablet 10 pulgadas,2024-03-20,148.57,34,Barranquilla,PayPal,2024-09-13,Bronze
+124,Ana Torres,ana.torres124@mailinator.com,Router WiFi 6,2024-06-17,1536.43,52,Pereira,Debit Card,2024-10-19,Gold
+125,Carlos Ruiz,carlos.ruiz125@mailinator.com,Parlante Portátil,2024-02-05,434.06,61,Cúcuta,Credit Card,2024-03-22,Silver
+126,Diego Pérez,diego.perez126@mailinator.com,Impresora Multifuncional,2024-02-21,806.97,62,Cúcuta,Credit Card,2024-03-15,Bronze
+127,Carlos Ruiz,carlos.ruiz127@mailinator.com,Teclado Mecánico,2024-07-02,684.09,27,Bucaramanga,PayPal,2024-10-15,Silver
+128,Andrés Castro,andres.castro128@mailinator.com,Mouse Inalámbrico,2024-03-30,155.96,42,Santa Marta,PayPal,2024-05-30,Silver
+129,Paula Restrepo,paula.restrepo129@mailinator.com,Mouse Inalámbrico,2024-04-28,838.15,34,Manizales,Debit Card,2024-10-15,Bronze
+130,Mariana Suárez,mariana.suarez130@mailinator.com,Micrófono USB,2024-05-27,1224.54,28,Medellín,Debit Card,2024-08-23,Gold
+131,Mateo Herrera,mateo.herrera131@mailinator.com,Cargador Inalámbrico,2024-08-05,1247.21,47,Cúcuta,Credit Card,2024-09-23,Gold
+132,Diego Pérez,diego.perez132@mailinator.com,"Monitor 27""",2024-07-14,1035.88,54,Cúcuta,PayPal,2024-08-20,Bronze
+133,Tomás Cárdenas,tomas.cardenas133@mailinator.com,Tablet 10 pulgadas,2024-05-20,29.45,61,Bogotá,PayPal,2024-09-24,Gold
+134,Mateo Herrera,mateo.herrera134@mailinator.com,Impresora Multifuncional,2024-04-27,1098.61,40,Bucaramanga,PayPal,2024-06-14,Silver
+135,Tomás Cárdenas,tomas.cardenas135@mailinator.com,Impresora Multifuncional,2024-03-11,1136.42,58,Bogotá,Debit Card,2024-09-28,Silver
+136,Paula Restrepo,paula.restrepo136@mailinator.com,Smartwatch,2024-03-08,175.89,36,Barranquilla,PayPal,2024-06-22,Bronze
+137,Sofía Ramírez,sofia.ramirez137@mailinator.com,Impresora Multifuncional,2024-10-03,1579.48,41,Cartagena,PayPal,2024-10-20,Gold
+138,Camila Salazar,camila.salazar138@mailinator.com,Micrófono USB,2024-09-03,1741.78,36,Barranquilla,Credit Card,2024-11-01,Gold
+139,Sofía Ramírez,sofia.ramirez139@mailinator.com,Impresora Multifuncional,2024-04-25,1550.35,64,Pereira,PayPal,2024-07-27,Bronze
+140,Daniela Rojas,daniela.rojas140@mailinator.com,Auriculares Bluetooth,2024-05-15,972.78,47,Barranquilla,PayPal,2024-11-03,Bronze
+141,Daniela Rojas,daniela.rojas141@mailinator.com,Router WiFi 6,2024-07-09,208.40,32,Manizales,Credit Card,2024-09-30,Gold
+142,Juan Rodríguez,juan.rodriguez142@mailinator.com,Cargador Inalámbrico,2024-02-02,1149.20,47,Cúcuta,PayPal,2024-08-29,Bronze
+143,Carlos Ruiz,carlos.ruiz143@mailinator.com,Auriculares Bluetooth,2024-06-04,1792.73,25,Medellín,Credit Card,2024-10-19,Bronze
+144,Mariana Suárez,mariana.suarez144@mailinator.com,Smartwatch,2024-10-03,763.14,65,Cali,Debit Card,2024-11-13,Bronze
+145,Nicolás Mendoza,nicolas.mendoza145@mailinator.com,Parlante Portátil,2024-07-27,1691.21,35,Bogotá,PayPal,2024-09-12,Bronze
+146,Mariana Suárez,mariana.suarez146@mailinator.com,"Monitor 27""",2024-07-04,192.35,61,Barranquilla,PayPal,2024-10-03,Bronze
+147,Camila Salazar,camila.salazar147@mailinator.com,"Monitor 27""",2024-03-03,1708.98,47,Medellín,PayPal,2024-06-19,Silver
+148,Felipe Álvarez,felipe.alvarez148@mailinator.com,Auriculares Bluetooth,2024-01-26,1419.43,33,Cali,PayPal,2024-05-10,Bronze
+149,Camilo Vega,camilo.vega149@mailinator.com,Disco SSD 1TB,2024-04-16,1061.69,32,Barranquilla,Credit Card,2024-11-03,Gold
+150,Laura Gómez,laura.gomez150@mailinator.com,Teclado Mecánico,2024-03-15,1777.74,52,Cúcuta,Credit Card,2024-04-12,Silver
+151,Laura Gómez,laura.gomez151@mailinator.com,Mouse Inalámbrico,2024-01-08,654.46,33,Santa Marta,Debit Card,2024-01-16,Bronze
+152,Carlos Ruiz,carlos.ruiz152@mailinator.com,Mouse Inalámbrico,2024-08-03,954.06,65,Medellín,Debit Card,2024-09-29,Silver
+153,Gabriela Cortés,gabriela.cortes153@mailinator.com,Parlante Portátil,2024-02-25,821.83,32,Santa Marta,Credit Card,2024-07-28,Silver
+154,Laura Gómez,laura.gomez154@mailinator.com,Auriculares Bluetooth,2024-09-02,1527.43,45,Medellín,Debit Card,2024-10-28,Bronze
+155,Ana Torres,ana.torres155@mailinator.com,Smartwatch,2024-11-07,279.78,26,Cúcuta,PayPal,2024-11-15,Silver
+156,Daniela Rojas,daniela.rojas156@mailinator.com,Parlante Portátil,2024-09-28,541.39,50,Santa Marta,Debit Card,2024-10-04,Silver
+157,Diego Pérez,diego.perez157@mailinator.com,Router WiFi 6,2024-10-09,1301.70,31,Pereira,Debit Card,2024-10-23,Silver
+158,Mariana Suárez,mariana.suarez158@mailinator.com,Tablet 10 pulgadas,2024-07-31,1317.36,38,Pereira,Debit Card,2024-10-24,Bronze
+159,Sofía Ramírez,sofia.ramirez159@mailinator.com,Cargador Inalámbrico,2024-08-30,134.83,23,Medellín,Debit Card,2024-09-11,Silver
+160,Santiago Ortiz,santiago.ortiz160@mailinator.com,Impresora Multifuncional,2024-03-07,1008.12,55,Cartagena,PayPal,2024-05-30,Silver
+161,Sebastián Jiménez,sebastian.jimenez161@mailinator.com,Smartwatch,2024-08-04,1564.54,64,Bogotá,Debit Card,2024-10-19,Bronze
+162,Diego Pérez,diego.perez162@mailinator.com,Parlante Portátil,2024-09-16,394.74,60,Manizales,Credit Card,2024-11-09,Bronze
+163,Alejandro Reyes,alejandro.reyes163@mailinator.com,Smartwatch,2024-02-28,1376.25,54,Bucaramanga,Debit Card,2024-03-12,Silver
+164,Tomás Cárdenas,tomas.cardenas164@mailinator.com,Router WiFi 6,2024-05-16,66.68,35,Cúcuta,Debit Card,2024-08-13,Bronze
+165,Sofía Ramírez,sofia.ramirez165@mailinator.com,Parlante Portátil,2024-07-24,139.21,65,Bogotá,Credit Card,2024-10-27,Silver
+166,Daniela Rojas,daniela.rojas166@mailinator.com,Tablet 10 pulgadas,2024-08-20,623.50,41,Cúcuta,PayPal,2024-09-30,Silver
+167,Paula Restrepo,paula.restrepo167@mailinator.com,Parlante Portátil,2024-02-13,1591.77,27,Cali,PayPal,2024-03-09,Silver
+168,Camila Salazar,camila.salazar168@mailinator.com,Cámara Web HD,2024-08-05,881.91,46,Pereira,Debit Card,2024-09-01,Silver
+169,Diego Pérez,diego.perez169@mailinator.com,Smartwatch,2024-08-08,212.94,61,Santa Marta,Debit Card,2024-10-14,Silver
+170,Carlos Ruiz,carlos.ruiz170@mailinator.com,"Monitor 27""",2024-07-21,1772.24,21,Bogotá,Credit Card,2024-08-28,Gold
+171,Camilo Vega,camilo.vega171@mailinator.com,Mouse Inalámbrico,2024-05-10,531.66,25,Bogotá,Debit Card,2024-08-28,Bronze
+172,Daniela Rojas,daniela.rojas172@mailinator.com,Disco SSD 1TB,2024-04-27,907.97,60,Barranquilla,Credit Card,2024-08-06,Gold
+173,Carlos Ruiz,carlos.ruiz173@mailinator.com,Tablet 10 pulgadas,2024-01-10,835.66,22,Barranquilla,PayPal,2024-08-16,Silver
+174,María Fernanda León,maria.fernanda.leon174@mailinator.com,Cargador Inalámbrico,2024-08-01,531.78,43,Bogotá,Debit Card,2024-08-22,Gold
+175,Felipe Álvarez,felipe.alvarez175@mailinator.com,Cámara Web HD,2024-07-04,172.31,24,Bucaramanga,Debit Card,2024-10-14,Silver
+176,Daniela Rojas,daniela.rojas176@mailinator.com,Router WiFi 6,2024-06-07,1346.26,32,Barranquilla,Credit Card,2024-06-26,Silver
+177,Diego Pérez,diego.perez177@mailinator.com,Disco SSD 1TB,2024-09-18,361.12,40,Barranquilla,PayPal,2024-11-09,Silver
+178,Sofía Ramírez,sofia.ramirez178@mailinator.com,"Monitor 27""",2024-02-22,276.40,30,Cali,PayPal,2024-05-10,Silver
+179,Natalia Guzmán,natalia.guzman179@mailinator.com,Laptop Gamer,2024-03-31,1713.06,58,Manizales,Debit Card,2024-10-10,Silver
+180,Paula Restrepo,paula.restrepo180@mailinator.com,Cámara Web HD,2024-10-16,1162.74,57,Barranquilla,PayPal,2024-10-26,Bronze
+181,Ana Torres,ana.torres181@mailinator.com,Cámara Web HD,2024-08-14,1142.02,35,Santa Marta,Credit Card,2024-09-28,Silver
+182,Mateo Herrera,mateo.herrera182@mailinator.com,Cámara Web HD,2024-08-19,82.13,41,Cúcuta,Credit Card,2024-11-09,Gold
+183,Ana Torres,ana.torres183@mailinator.com,Parlante Portátil,2024-10-31,920.12,47,Santa Marta,PayPal,2024-11-01,Silver
+184,Paula Restrepo,paula.restrepo184@mailinator.com,Cargador Inalámbrico,2024-04-06,588.93,48,Cartagena,Credit Card,2024-04-21,Silver
+185,Isabella Vargas,isabella.vargas185@mailinator.com,Silla Gamer,2024-02-13,915.62,29,Bogotá,Credit Card,2024-09-24,Gold
+186,Gabriela Cortés,gabriela.cortes186@mailinator.com,Disco SSD 1TB,2024-11-08,298.36,41,Cúcuta,Debit Card,2024-11-14,Silver
+187,Tomás Cárdenas,tomas.cardenas187@mailinator.com,Parlante Portátil,2024-01-27,1423.77,59,Barranquilla,Credit Card,2024-07-13,Bronze
+188,Tomás Cárdenas,tomas.cardenas188@mailinator.com,Tablet 10 pulgadas,2024-05-25,464.81,60,Santa Marta,Credit Card,2024-08-18,Bronze
+189,Tomás Cárdenas,tomas.cardenas189@mailinator.com,Mouse Inalámbrico,2024-06-28,568.76,59,Pereira,Credit Card,2024-07-19,Bronze
+190,Daniela Rojas,daniela.rojas190@mailinator.com,Cargador Inalámbrico,2024-06-17,1466.53,60,Cartagena,Credit Card,2024-10-03,Silver
+191,Laura Gómez,laura.gomez191@mailinator.com,Smartwatch,2024-06-07,336.77,31,Barranquilla,Debit Card,2024-07-26,Bronze
+192,Sofía Ramírez,sofia.ramirez192@mailinator.com,Mouse Inalámbrico,2024-02-09,542.99,24,Cartagena,PayPal,2024-11-04,Bronze
+193,Isabella Vargas,isabella.vargas193@mailinator.com,Micrófono USB,2024-11-12,248.92,42,Cali,Credit Card,2024-11-13,Gold
+194,Camilo Vega,camilo.vega194@mailinator.com,Parlante Portátil,2024-03-25,1302.31,20,Pereira,Debit Card,2024-09-14,Silver
+195,Mariana Suárez,mariana.suarez195@mailinator.com,Parlante Portátil,2024-05-25,1358.02,46,Bucaramanga,PayPal,2024-07-25,Bronze
+196,Nicolás Mendoza,nicolas.mendoza196@mailinator.com,Micrófono USB,2024-04-09,671.60,54,Manizales,Debit Card,2024-10-22,Bronze
+197,Daniela Rojas,daniela.rojas197@mailinator.com,Disco SSD 1TB,2024-09-27,762.31,28,Bucaramanga,PayPal,2024-10-05,Gold
+198,Carlos Ruiz,carlos.ruiz198@mailinator.com,Cargador Inalámbrico,2024-09-03,1575.30,53,Medellín,PayPal,2024-11-08,Gold
+199,Mateo Herrera,mateo.herrera199@mailinator.com,Laptop Gamer,2024-03-23,501.93,50,Cali,Debit Card,2024-04-15,Gold
+200,Juan Rodríguez,juan.rodriguez200@mailinator.com,Router WiFi 6,2024-08-18,1594.06,19,Pereira,Credit Card,2024-10-07,Silver

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TrendGear Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="header-content">
+    <div class="logo">TrendGear</div>
+    <nav class="nav" id="nav">
+      <a href="#resumen">Resumen</a>
+      <a href="#clientes">Clientes</a>
+    </nav>
+    <button class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+</header>
+
+<main class="main">
+  <section id="resumen" class="kpis">
+    <div class="kpi-card">
+      <span class="kpi-label">Clientes</span>
+      <span class="kpi-value" id="totalClientes">0</span>
+    </div>
+    <div class="kpi-card">
+      <span class="kpi-label">Ingresos Totales</span>
+      <span class="kpi-value" id="ingresoTotal">$0</span>
+    </div>
+    <div class="kpi-card">
+      <span class="kpi-label">Edad Promedio</span>
+      <span class="kpi-value" id="edadPromedio">0</span>
+    </div>
+  </section>
+
+  <section id="clientes" class="clientes-section">
+    <h2 class="section-title">Clientes</h2>
+    <div class="clientes-grid" id="clientesContainer"></div>
+  </section>
+</main>
+
+<footer class="footer">
+  <p>TrendGear Producción - Dashboard 2024</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
